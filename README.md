@@ -1,4 +1,4 @@
-# ⚡ AC-to-DC Converter PCB Project
+# ⚡ AC-to-DC Converter - PCB Design KiCAD
 
 ## 📖 Project Overview
 
