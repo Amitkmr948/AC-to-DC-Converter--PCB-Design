@@ -15,9 +15,9 @@ This project is ideal for electronics beginners and intermediate hobbyists looki
 
 ## 🖼️ PCB Layout Screenshot
 
-![PCB Layout]()
+![PCB Layout](https://github.com/Amitkmr948/AC-to-DC-Converter--PCB-Design/blob/52a6cbe81993eaf88a6b5a1837d6eaa343e6f8de/Doc/Front%20Pcb.png)
 
-![PCB Schematic]()
+![PCB Schematic](https://github.com/Amitkmr948/AC-to-DC-Converter--PCB-Design/blob/52a6cbe81993eaf88a6b5a1837d6eaa343e6f8de/Doc/schematic.png)
 
 ## 🔧 Features
 
